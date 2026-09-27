@@ -1,12 +1,12 @@
 {
-  "name": "tiktok-4c-username-sniper",
+  "name": "tiktok-username-sniper",
   "version": "1.0.0",
   "description": "Auto-sniper buat nyari username TikTok 4 karakter (4C) yang masih kosong / available. Gas pol!",
-  "main": "tiktok_sniper.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node tiktok_sniper.js",
-    "dev": "node --watch tiktok_sniper.js"
+    "start": "node index.js",
+    "dev": "node --watch index.js"
   },
   "keywords": [
     "tiktok",
